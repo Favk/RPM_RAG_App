@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Thompson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Thompson's lectures are engaging and well-structured. She's always willing to help during office hours."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant instructor! Prof. Chen makes complex algorithms easy to understand. His projects are challenging but rewarding."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Johnson knows her material well, but her tests can be quite difficult. More practice exercises would be helpful."
+      },
+      {
+        "professor": "Prof. David Martinez",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Martinez's passion for history is contagious. His anecdotes make the subject come alive."
+      },
+      {
+        "professor": "Dr. Rachel Lee",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Lee is an exceptional educator. Her lab demonstrations are always fascinating and safety is her top priority."
+      },
+      {
+        "professor": "Prof. Jonathan Taylor",
+        "subject": "English Literature",
+        "stars": 2,
+        "review": "Prof. Taylor's reading list is extensive, but his lectures can be dry. More class discussions would improve the course."
+      },
+      {
+        "professor": "Dr. Olivia Rodriguez",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Dr. Rodriguez explains complex concepts clearly. Her problem sets are challenging but help reinforce the material."
+      },
+      {
+        "professor": "Prof. Alexander White",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Prof. White is knowledgeable, but sometimes moves too quickly through difficult topics. More examples would be beneficial."
+      },
+      {
+        "professor": "Dr. Sophia Patel",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Dr. Patel's classes are thought-provoking and encourage critical thinking. Her assignments are relevant and interesting."
+      },
+      {
+        "professor": "Prof. William Brown",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Prof. Brown brings real-world examples into his lectures, making economic theories more relatable and easier to grasp."
+      },
+      {
+        "professor": "Dr. Emma Wilson",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Wilson's enthusiasm for art is infectious. Her virtual museum tours are a highlight of the course."
+      },
+      {
+        "professor": "Prof. James Liu",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Prof. Liu presents balanced viewpoints on controversial topics, but his assignments can be vague at times."
+      },
+      {
+        "professor": "Dr. Lisa Greene",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Greene's field trips make learning about ecosystems hands-on and memorable. Her grading is fair and transparent."
+      },
+      {
+        "professor": "Prof. Robert Nguyen",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Prof. Nguyen's Socratic teaching style really encourages deep thinking. His classes are always lively and engaging."
+      },
+      {
+        "professor": "Dr. Maria Sanchez",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "Dr. Sanchez's approach to language acquisition theories is comprehensive. Her accent in multiple languages is impressive."
+      },
+      {
+        "professor": "Prof. Thomas Wright",
+        "subject": "Business Administration",
+        "stars": 2,
+        "review": "Prof. Wright's real-world experience is valuable, but his lectures lack organization. More structure would improve the course."
+      },
+      {
+        "professor": "Dr. Laura Kim",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Dr. Kim's explanations of neural pathways are clear and concise. Her lab work is cutting-edge and exciting."
+      },
+      {
+        "professor": "Prof. Daniel Cohen",
+        "subject": "Music Theory",
+        "stars": 4,
+        "review": "Prof. Cohen's composition assignments are challenging but rewarding. His feedback is always constructive and helpful."
+      },
+      {
+        "professor": "Dr. Natalie Foster",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "Dr. Foster's lectures on cultural practices are interesting, but the course workload can be overwhelming at times."
+      },
+      {
+        "professor": "Prof. Christopher Lee",
+        "subject": "Mechanical Engineering",
+        "stars": 5,
+        "review": "Prof. Lee's practical approach to engineering problems is excellent. His projects prepare students well for industry work."
+      }
+    ]
+  }
